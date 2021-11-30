@@ -1,0 +1,1 @@
+insert into employee_payroll (name,gender,salary,start_date,phone,department,Basic_Pay,Deductions,Taxable_pay,Income_pay,Net_Pay) values('Terissa','f',500000,'2020-12-06',836554455,'HR',500000,4000,2500,1000,492500);
